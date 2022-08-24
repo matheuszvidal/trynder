@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "yarn": "^1.22.19"
+  },
+  "name": "trynder",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/matheuszvidal/trynder.git",
+  "license": "MIT"
+}
