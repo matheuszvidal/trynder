@@ -72,3 +72,10 @@
   width: 30%;
   padding-bottom: 40px;
 }
+
+.main-container .empty {
+  font-size: 32px;
+  color: #999;
+  font-weight: bold;
+  margin-top: 300px;
+}
